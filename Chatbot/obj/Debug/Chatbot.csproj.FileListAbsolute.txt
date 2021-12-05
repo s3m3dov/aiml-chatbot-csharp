@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\Home\source\repos\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\Home\source\repos\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.Main.resources
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.Components.uc_incoming.resources
+C:\Users\Home\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.Components.uc_outgoing.resources
