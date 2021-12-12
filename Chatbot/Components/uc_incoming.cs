@@ -34,7 +34,7 @@ namespace Chatbot.Components
         {
             lbl_msg_incoming.Location = new Point(pb_incoming.Location.X + pb_incoming.Width + 10, 15);
 
-            lbl_msg_incoming.Height = Utils.GetTextHeight(lbl_msg_incoming) + 30;
+            lbl_msg_incoming.Height = Utils.GetTextHeight(lbl_msg_incoming) + 40;
 
             this.Height = lbl_msg_incoming.Height + 30;
         }

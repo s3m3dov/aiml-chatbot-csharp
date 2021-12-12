@@ -29,7 +29,6 @@ namespace Chatbot
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.pnl_top = new System.Windows.Forms.Panel();
             this.lbl_status = new System.Windows.Forms.Label();
@@ -39,7 +38,6 @@ namespace Chatbot
             this.pnl_btm = new System.Windows.Forms.Panel();
             this.btn_send = new System.Windows.Forms.Button();
             this.tb_message = new System.Windows.Forms.TextBox();
-            this.timer_bot = new System.Windows.Forms.Timer(this.components);
             this.pnl_main = new System.Windows.Forms.Panel();
             this.pnl_top.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb_bot)).BeginInit();
@@ -147,10 +145,6 @@ namespace Chatbot
             this.tb_message.Enter += new System.EventHandler(this.tb_message_enter);
             this.tb_message.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tb_message_KeyUp);
             // 
-            // timer_bot
-            // 
-            this.timer_bot.Tick += new System.EventHandler(this.timer_bot_Tick);
-            // 
             // pnl_main
             // 
             this.pnl_main.AutoScroll = true;
@@ -192,7 +186,6 @@ namespace Chatbot
         private System.Windows.Forms.Label lbl_status;
         private System.Windows.Forms.Panel pnl_btm;
         private System.Windows.Forms.TextBox tb_message;
-        private System.Windows.Forms.Timer timer_bot;
         private System.Windows.Forms.Button btn_send;
         private System.Windows.Forms.Button btn_close;
         private System.Windows.Forms.Panel pnl_main;
